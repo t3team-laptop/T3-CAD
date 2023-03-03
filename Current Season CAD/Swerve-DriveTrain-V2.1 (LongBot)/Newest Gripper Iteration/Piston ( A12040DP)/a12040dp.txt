@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"AutomationDirect";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-18072019-039062";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"NITRA pneumatic cylinder, non-repairable, 3/4in bore, 1/4in rod diameter, 4in stroke, double acting, rear pivot mount.";"";
+"TraceParts.InstanceId";"90-18072019-03906278P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartTitle";"NITRA pneumatic cylinder, non-repairable, 3/4in bore, 1/4in rod diameter, 4in stroke, double acting, rear pivot mount.";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Part_Number_EShop_URL";"http://www.adcpn.com/pn/A12040DP";"";
+"TraceParts.ClassPath";"/F_AUTOMATION_DIRECT/AUTOMATION_DIRECT.760793/";"";
+"SUPPLIER_PART_NUMBER";"A12040DP";"";
